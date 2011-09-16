@@ -1,0 +1,1 @@
+This repository is a test repo designed for experiments with versioning only the source and test files of a Netbeans project. It actually tracks src, test and web directories only in a Netbeans project, plus .gitignore and this readme file.
