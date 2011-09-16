@@ -1,0 +1,1 @@
+This repository tracks src, test and web directories only in a Netbeans project, plus .gitignore and this readme file.
