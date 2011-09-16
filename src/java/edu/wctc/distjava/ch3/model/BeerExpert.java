@@ -7,7 +7,7 @@ import java.util.*;
  * recommendations about beer products based on a color preference.
  * 
  * @author  Textbook, with modifications by Jim Lombardo
- * @version 1.01
+ * @version 1.02
  */
 public class BeerExpert {
     
