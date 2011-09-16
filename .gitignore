@@ -1,0 +1,9 @@
+# Lines starting with '#' are considered comments.
+# Ignore all Netbeans project related stuff and compiled code.
+build/
+dist/
+nbproject/
+build.xml
+# Ignore objects and archives.
+#*.[oa]
+#Only thing left to version is src, test and web, which are OK
